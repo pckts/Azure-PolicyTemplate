@@ -4,12 +4,12 @@
     "if": {
       "allOf": [
         {
-          "field": "type",
-          "equals": "Microsoft.Sql/servers/databases"
+          "field": "",
+          "equals": ""
         },
         {
-          "field": "Microsoft.Sql/servers/databases/edition",
-          "notEquals": "DataWarehouse"
+          "field": "",
+          "notEquals": ""
         }
       ]
     },
