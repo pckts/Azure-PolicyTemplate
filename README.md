@@ -1,2 +1,2 @@
 # Azure-PolicyTemplate
-JSON | Azure | Template for simple policy
+JSON | Azure | Templates for Azure Policies
